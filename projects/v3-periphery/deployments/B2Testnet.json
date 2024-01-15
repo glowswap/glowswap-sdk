@@ -1,0 +1,8 @@
+{
+  "SwapRouter": "0xD599C536B0378c8024dDf8a445859dd94eFf9942",
+  "Quoter": "0x71e5bDa7fE44827D69B10b18bbdf6a1ce8c61d90",
+  "TickLens": "0x0dd48d2b400d8b6FeC506C0855263E553231a811",
+  "NonfungibleTokenPositionDescriptor": "0x0C467640b1d4D990927109c5CA6e13a6c9B65Adb",
+  "NonfungiblePositionManager": "0x6bD7044e0C69BfE28773133DCc1A2A6a3ca8e7A1",
+  "GlowInterfaceMulticall": "0x740A14f6EDf536C59008Cb62C9F212Cc2a5675ea"
+}
