@@ -1,26 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "glow-v3",
-  "private": true,
-  "workspaces": [
-    "projects/*",
-    "common"
-  ],
-  "scripts": {
-    "compile": "yarn workspaces run compile",
-    "test": "yarn workspaces run test"
-  },
-  "devDependencies": {
-    "zx": "^7.2.0",
-    "@typechain/hardhat": "^6.1.5",
-    "solidity-docgen": "^0.6.0-beta.35",
-    "find-config": "^1.0.0"
-  },
-  "volta": {
-    "node": "16.19.1"
-  }
-}
-=======
   "name": "glowswap-sdk",
   "type": "module",
   "sideEffects": false,
@@ -57,4 +35,3 @@
     "viem": "^2.7.15"
   }
 }
->>>>>>> 80b0248 (feat: finish glowswap sdk)
