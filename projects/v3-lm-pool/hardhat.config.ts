@@ -14,6 +14,11 @@ export default {
       accounts: [process.env.PRIVATE_KEY!],
       timeout: 180000,
     },
+    Habitat: {
+      url: "https://habitat-rpc.bsquared.network",
+      accounts: [process.env.PRIVATE_KEY!],
+      timeout: 180000,
+    },
   },
   paths: {
     sources: "./contracts/",
