@@ -1,3 +1,2 @@
-# GlowContracts
-
-The contracts of glow swap
+# glowswap-demo
+The sdk for glowswap on bsquare chain.
